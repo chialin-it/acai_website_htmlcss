@@ -1,0 +1,6 @@
+C:\Users\Chia Lin\Desktop\Poly\WDEV\ACAI_by_Jerron_Yvonne_ChiaLin_Cady_Winnie\WdevAcai\bin\WdevAcai.dll.config
+C:\Users\Chia Lin\Desktop\Poly\WDEV\ACAI_by_Jerron_Yvonne_ChiaLin_Cady_Winnie\WdevAcai\bin\WdevAcai.dll
+C:\Users\Chia Lin\Desktop\Poly\WDEV\ACAI_by_Jerron_Yvonne_ChiaLin_Cady_Winnie\WdevAcai\bin\WdevAcai.pdb
+C:\Users\Chia Lin\Desktop\Poly\WDEV\ACAI_by_Jerron_Yvonne_ChiaLin_Cady_Winnie\WdevAcai\obj\Debug\Acai.csproj.CoreCompileInputs.cache
+C:\Users\Chia Lin\Desktop\Poly\WDEV\ACAI_by_Jerron_Yvonne_ChiaLin_Cady_Winnie\WdevAcai\obj\Debug\WdevAcai.dll
+C:\Users\Chia Lin\Desktop\Poly\WDEV\ACAI_by_Jerron_Yvonne_ChiaLin_Cady_Winnie\WdevAcai\obj\Debug\WdevAcai.pdb

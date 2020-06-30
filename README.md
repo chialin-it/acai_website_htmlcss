@@ -3,7 +3,7 @@ A simple website done for Web Development project.
 
 Website: https://acai2015.azurewebsites.net/index.html  
 
-Done by Jerron Lim, Yvonne Lim, Lee Chia Lin, Cady Koh, Winnie Chew  
+Done by Jerron Lim, Yvonne Lee, Lee Chia Lin, Cady Koh, Winnie Chew  
 
 This is a Ngee Ann Polytechnic project.  
 
